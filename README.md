@@ -10,4 +10,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-090909?style=for-the-badge&logo=Markdown)
 
 
-Follow me 
+## Follow me
+[![VKontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/btooom_reborn)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/vvalbog) 
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/btooom_reborn/) 
