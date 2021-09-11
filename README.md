@@ -14,3 +14,7 @@
 [![VKontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/btooom_reborn)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/vvalbog) 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/btooom_reborn/) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvalbog&show_icons=true&theme=tokyonight)
+
+
