@@ -1,6 +1,6 @@
 ![Header](https://github.com/Vvalbog/Vvalbog/blob/main/picture/frontend-vs-backend-880x308.jpg)
 
-## I am a beginner Front-end developer
+## I am a beginner developer
 
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=appveyor)
